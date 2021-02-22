@@ -1,5 +1,6 @@
 # blender_addons
-addons-helpers
+
+Apply Armature Scale And Adjust Animations
 
 
 Goal: A simple script that applies the scale of the armature and adjusts all its animations.
